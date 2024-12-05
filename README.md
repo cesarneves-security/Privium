@@ -1,4 +1,4 @@
-# Privium# Privium
+# Privium
 
 <p align="center">
   <a href="https://github.com/cesarneves-security/Privium.git"><img src="/img/1.png" alt="PRIVIUM"></a>
