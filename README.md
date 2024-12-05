@@ -1,7 +1,7 @@
 # Privium# Privium
 
 <p align="center">
-  <a href="https://github.com/cesarneves-security/blooker"><img src="/img/1.png" alt="PRIVIUM"></a>
+  <a href="https://github.com/cesarneves-security/Privium.git"><img src="/img/1.png" alt="PRIVIUM"></a>
 </p>
 
 **Privium** é uma ferramenta de auditoria e exploração de privilégios para sistemas operacionais Linux e Windows.  
@@ -29,6 +29,6 @@ Ela auxilia na identificação de potenciais vulnerabilidades relacionadas a ser
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/privium.git
+   https://github.com/cesarneves-security/Privium.git
    cd privium
    python3 __main__.py
